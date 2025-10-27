@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Unity 3D/C#/Flutter/TypeScript/MySQL/PostgreSQL/Javascript/Supabase
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on Flutter/Kotlin(mobile)/TypeScript/MySQL/PostgreSQL/Javascript/Supabase/C#(Unity 3D)
+- 🌱 I’m currently learning Kotlin(backend)/Flutter/GitHub Actions
 - 📫 How to reach me: valtensirl@gmail.com
 
 <div align="center">
